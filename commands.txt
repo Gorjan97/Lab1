@@ -16,6 +16,11 @@ git branch allcomands
 git add .
 git commit -m"new commit"
 git push origin allcomands
+git rebase master
+git checkout master
+git merge allcomands
+git push origin master
+
 
 
 
