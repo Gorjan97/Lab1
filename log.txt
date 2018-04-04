@@ -1,0 +1,11 @@
+commit 0135b3618484f491da1cb596fe814945b0f38053 (HEAD -> logging, origin/master, master)
+Author: gorjan.momchilov@students.finki.ukim.mk <gorjan.momchilov@students.finki.ukim.mk>
+Date:   Wed Apr 4 18:32:10 2018 +0200
+
+    modify l1.txt
+
+commit 741098d256dc52115b2b4661f2d7dda19978705b
+Author: gorjan.momchilov@students.finki.ukim.mk <gorjan.momchilov@students.finki.ukim.mk>
+Date:   Wed Apr 4 18:30:49 2018 +0200
+
+    Initial commit
