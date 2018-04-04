@@ -1,0 +1,21 @@
+git init
+git add .
+git commit -m"Initial commit"
+git commit -m"modify l1.txt"
+git remote add origin https://github.com/Gorjan97/Lab1.git
+git push -u origin master
+git checkout -- l1.txt
+git branch logging
+git checkout logging
+git log
+git push origin logging
+git checkout master
+git merge logging
+git push origin master
+git branch allcomands
+git add .
+git commit -m"new commit"
+git push origin allcomands
+
+
+
